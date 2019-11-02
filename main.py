@@ -1,6 +1,8 @@
 
 i=0
 
-while (i<10):
+while (s<10):
     print("Hello")
-    i=i+1
+    s=s+1
+    for(s=0;s<0;s++)
+    print("hello")
